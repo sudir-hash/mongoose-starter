@@ -1,3 +1,19 @@
-# MongoDB and Mongoose Challenges
+# To install dependenices
 
-This is the boilerplate for the MongoDB and Mongoose lessons. Instructions for completing these lessons start at https://www.freecodecamp.org/learn/apis-and-microservices/mongodb-and-mongoose/
+```
+npm install
+```
+
+# To run dev 
+
+```
+npm run dev
+
+```
+
+# To run server 
+
+```
+npm start 
+
+```
